@@ -1,16 +1,30 @@
-## Hi there 👋
+# Juan Ferreyra
 
-<!--
-**thejuan777/thejuan777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Desarrollo de Software enfocado en desarrollo web y con interés en ciberseguridad.
 
-Here are some ideas to get you started:
+Actualmente construyo proyectos para mejorar mis habilidades y ampliar mi experiencia práctica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+`HTML` `CSS` `JavaScript` `Git` `GitHub`
+
+## Actualmente aprendiendo
+
+- C++
+- Linux
+- Ciberseguridad
+- Desarrollo Web
+
+## Proyectos
+
+### YaTuPe Barbería
+
+Sitio web responsive desarrollado para una barbería de San Juan, Argentina.
+
+**Tecnologías:** HTML, CSS y JavaScript
+
+[Ver proyecto en GitHub](https://github.com/thejuan777/YaTuPe)
+
+---
+
+San Juan, Argentina
